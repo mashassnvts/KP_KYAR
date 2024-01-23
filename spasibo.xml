@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="forXML.css"?>
+<text>
+<head>
+    <nauthor>Молодежное слово</nauthor>
+    <ntitle>Что значит</ntitle>
+</head>
+<word>
+    <author>Кринжовый</author>
+    <slang>вызывающий чувство неловкости и стыда за других</slang>
+</word>
+<word>
+    <author>Рофл</author>
+    <slang>знак, который обозначает эмоцию человека, а конкретно то, что он сильно смеется</slang>
+</word>
+<word>
+    <author>Скилл</author>
+    <slang>рабочий, игровой или социальный навык</slang>
+</word>
+</text> 
